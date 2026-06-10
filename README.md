@@ -21,13 +21,6 @@ El sistema permite:
 * BPMN 2.0
 * Inteligencia Artifical
 
-## Cómo ejecutar el proyecto
-
-1. Descargar el repositorio.
-2. Abrir la carpeta en Visual Studio Code.
-3. Ejecutar el archivo main.py.
-4. Seguir las instrucciones del chatbot.
-
 ## Autores
 
 Natalia Guzmán
